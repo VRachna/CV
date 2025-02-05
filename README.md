@@ -7,9 +7,9 @@
 - Email Address	: vanrachna1@gmail.com
 
 ### Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Master Degree., Law | Royal University of Law (_2014 - 2016_)								       		
+- Master Degree., Development Management	| The Norton University (_2013 -2014_)	 			        		
+- Bachelor Degree., Computer Sciences | The Royal University of Phnom Penh (_2000 - 2004_)
 
 ### Working Experience
 Data scientist @Cambodian Children's Fund
