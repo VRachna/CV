@@ -6,8 +6,8 @@
 - Phone Number 	: 012 28 14 95 / 086 44 9999
 - Email Address	: vanrachna1@gmail.com
 
-### Education
-- Master Degree   |  Law, Royal University of Law (_2014 - 2016_)               								       		
+### Education            								       		
+- Master Degree   |  Administrative of Law, The Royal University of Law (_2014 -2016_)
 - Master Degree   |  Development Management, The Norton University (_2013 -2014_)	 			        		
 - Bachelor Degree |  Computer Sciences, The Royal University of Phnom Penh (_2000 - 2004_)
 - Public School   |  High School, Santhomuk (_1997 - 2000_)
