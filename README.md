@@ -7,8 +7,8 @@
 - Email Address	: vanrachna1@gmail.com
 
 ### Education
-**2014 – 2016.,		| Master Degree of Law, RULE
-**2012 – 2014.,		| Master Degree of Management Development, Norton University
+**Master Degree.,| Master Degree of Law, RULE (_2014 - 2016_)
+**Master Degree.,| Master Degree of Management Development, Norton University (_2012 - 2014_)
 **2000 – 2004.,		| Bachelor Degree of Computer Science and Engineering, Royal University of Phnom Penh
 **1997 - 2000.,		| High School diploma, Santhor Muk High School
 
