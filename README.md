@@ -28,28 +28,28 @@ NPO Cambodia (_2003 - 2005_)
 - _2003 - 2005_  IT Assistant
 
 ### PROFESSIONAL TRAINING
--(_November 2013_)		: Effective Proposal Writing, The LIFE Cambodia
--(_March 2013_)    		: Labor Distribute Resolution and Effective Case Preparation and Presentation Techniques, CAMFEBA
--(_September 2012_)		: Result Based Management, VBNK
--(_September 2012_)		: Essential Skills for New Appointed Manager, ATTITUDE
--(_July 2012_)  			: TRAINING OF TRAINERS (TOT), CAMFEBA
--(_May 2012_)      		: STRATEGIC PLANNING, SILAKA
--(_May 2012_)      		: EFFECTIVE ROLE OF ADMINISTRATION IN AN ORGANIZATION, ATTITUDE
--(_October 2011_)	  	: HOW TO BE A GREAT MANAGER, APLUS
--(_October 2011_)	  	: PROJECT MONITORING AND EVALUATION, SILAKA
--(_September 2011_)		: PROFESSIONAL HUMAN RESOURCE MANAGEMENT PRACTICE, FISCAR
--(_August 2011_)  		: HOLISTIC THINKING AND DECISION MAKING SKILLS FOR LIFE, APLUS
--(_August 2011_)  		: PROFESSIONAL REPORT WRITING SKILL, PMCC
--(_July 2010_)  			: HUMAN RESOURCE MANAGEMENT, CDCC
--(_February 2010_)		: QUALITY ASSURANCE IN ENGLISH LANGUAGE TEACHING, NEAS and IDP Education Pty Ltd
--(_February 2010_)		: SIXTH CamTESOL CONFERENCE, IDP Education Pty Ltd
--(_December 2009_)		: DOMESTIC VIOLENCE LAW AND COUNSELING METHODOLOGY, CCF
--(_August 2009_)  		: FUNDAMENTALS OF INTERNAL CONTROL AND AUDITING, CIPD
--(_August 2009_)	  	: DECISION MAKING, CCF
--(_March 2009_)		    : HUMAN RESOURCE AND ADMINISTRATION, EBM Co., Ltd
--(_December 2009_)	  : ADMINISTRATIVE MANAGEMENT, CCF
--(_November 2008_)		: CPR AND BASIC FIRST AID, CCF
--(_October 2008_)		  : SUCCESSFUL TEAMWORK, CCF
--(_May 2008_)		      : OPERACY, (HEDC – trainer: Christoper Lee)
--(_December 2004_)	  : MULTIMEDIA FOR GRAPHIC DESIGN, CCF
--(_September 2003_)		: LAND LAW, Law Society and Municipal Department of Land Management, Urbanization Construction and Cadastral
+- _November 2013_  		: Effective Proposal Writing, The LIFE Cambodia
+- _March 2013_    		: Labor Distribute Resolution and Effective Case Preparation and Presentation Techniques, CAMFEBA
+- _September 2012_		: Result Based Management, VBNK
+- _September 2012_		: Essential Skills for New Appointed Manager, ATTITUDE
+- _July 2012_    			: TRAINING OF TRAINERS (TOT), CAMFEBA
+- _May 2012_      		: STRATEGIC PLANNING, SILAKA
+- _May 2012_      		: EFFECTIVE ROLE OF ADMINISTRATION IN AN ORGANIZATION, ATTITUDE
+- _October 2011_	  	: HOW TO BE A GREAT MANAGER, APLUS
+- _October 2011_	  	: PROJECT MONITORING AND EVALUATION, SILAKA
+- _September 2011_		: PROFESSIONAL HUMAN RESOURCE MANAGEMENT PRACTICE, FISCAR
+- _August 2011_    		: HOLISTIC THINKING AND DECISION MAKING SKILLS FOR LIFE, APLUS
+- _August 2011_    		: PROFESSIONAL REPORT WRITING SKILL, PMCC
+- _July 2010_    			: HUMAN RESOURCE MANAGEMENT, CDCC
+- _February 2010_    	: QUALITY ASSURANCE IN ENGLISH LANGUAGE TEACHING, NEAS and IDP Education Pty Ltd
+- _February 2010_  		: SIXTH CamTESOL CONFERENCE, IDP Education Pty Ltd
+- _December 2009_  		: DOMESTIC VIOLENCE LAW AND COUNSELING METHODOLOGY, CCF
+- _August 2009_    		: FUNDAMENTALS OF INTERNAL CONTROL AND AUDITING, CIPD
+- _August 2009_  	  	: DECISION MAKING, CCF
+- _March 2009_		    : HUMAN RESOURCE AND ADMINISTRATION, EBM Co., Ltd
+- _December 2009_  	  : ADMINISTRATIVE MANAGEMENT, CCF
+- _November 2008_  		: CPR AND BASIC FIRST AID, CCF
+- _October 2008_		  : SUCCESSFUL TEAMWORK, CCF
+- _May 2008_		      : OPERACY, (HEDC – trainer: Christoper Lee)
+- _December 2004_  	  : MULTIMEDIA FOR GRAPHIC DESIGN, CCF
+- _September 2003_		: LAND LAW, Law Society and Municipal Department of Land Management, Urbanization Construction and Cadastral
