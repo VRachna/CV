@@ -7,11 +7,9 @@
 - Email Address	: vanrachna1@gmail.com
 
 ### Education
-**Master Degree.,| Royal University of Law (_2014 - 2016_)
-**Master Degree.,| Master Degree of Management Development, Norton University (_2012 - 2014_)
-**2000 – 2004.,| Bachelor Degree of Computer Science and Engineering, Royal University of Phnom Penh
-**1997 - 2000.,| High School diploma, Santhor Muk High School
-
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ### Working Experience
 Data scientist @Cambodian Children's Fund
