@@ -1,8 +1,17 @@
 # vanrachna.github.io
-This is my personal real information about education background and working experience so far. 
+- Sex		: Male
+- Marital Status	: Married with a son and a daughter
+- Date of Birth	: 01 July 1985
+- Current Address: #97, St.5, Borey Peng Hout Steung Meanchey, Sangkat Meanchey, Khan Meanchey, Phnom Penh, Cambodia
+- Phone Number 	: 012 28 14 95 / 086 44 9999
+- Email Address	: vanrachna1@gmail.com
 
 ### Education
-Physics, PhD
+**2014 – 2016,		| Master Degree of Law, RULE
+**2012 – 2014,		| Master Degree of Management Development, Norton University
+**2000 – 2004,		| Bachelor Degree of Computer Science and Engineering, Royal University of Phnom Penh
+**1997 - 2000,		| High School diploma, Santhor Muk High School
+
 
 ### Working Experience
 Data scientist @Cambodian Children's Fund
