@@ -14,7 +14,7 @@
 - Public School   |  Secondary, Samroung An Deth (_1995 - 1997_)
 
 ### Working Experience
-Cambodian Children's Fund (_2005 - Current_) |
+#Cambodian Children's Fund (_2005 - Current_) 
 - _2017 - Now_   Senior Manager-Reporting and Compliance Manager
 - _2014 - 2017_  Reporting and Compliance Manager 
 - _2011 - 2014_  Chief Administrative Officer
