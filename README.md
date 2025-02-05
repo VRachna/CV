@@ -27,6 +27,12 @@ Cambodian Children's Fund (_2005 - Current_)
 NPO Cambodia (_2003 - 2005_) 
 - _2003 - 2005_  IT Assistant
 
+### SKILL
+-_Program Administrator_
+-_Graphic Design_
+-_Data Security_
+-_Security Managment_
+
 ### PROFESSIONAL TRAINING
 - _November 2013_  		: Effective Proposal Writing, The LIFE Cambodia
 - _March 2013_    		: Labor Distribute Resolution and Effective Case Preparation and Presentation Techniques, CAMFEBA
