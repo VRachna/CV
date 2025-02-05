@@ -28,9 +28,9 @@ NPO Cambodia (_2003 - 2005_)
 - _2003 - 2005_  IT Assistant
 
 ### SKILL
-- #_Program Administrator_ : Managing, maintaining, and securing an organization's database systems, ensuring data integrity, accessibility, and optimal performance by designing database structures, implementing security measures, monitoring performance, and backing up data to prevent loss.
-- #_Graphic Design_        : Professional Graphic design using Illustator and Photoshop
-- #_Data Security_         : Provide service for the installation, maintenance, and operation of security cameras. They also oversee the data storage and ensure the system is running properly. 
+- _Program Administrator_ : Managing, maintaining, and securing an organization's database systems, ensuring data integrity, accessibility, and optimal performance by designing database structures, implementing security measures, monitoring performance, and backing up data to prevent loss.
+- _Graphic Design_        : Professional Graphic design using Illustator and Photoshop
+- _Data Security_         : Provide service for the installation, maintenance, and operation of security cameras. They also oversee the data storage and ensure the system is running properly. 
 
 ### PROFESSIONAL TRAINING
 - _November 2013_  		: Effective Proposal Writing, The LIFE Cambodia
