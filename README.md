@@ -14,9 +14,14 @@
 - Public School   |  Secondary, Samroung An Deth (_1995 - 1997_)
 
 ### Working Experience
-Data scientist @Cambodian Children's Fund
-- big impact project 1!
-- big impact project 2!
+Cambodian Children's Fund |
+*** _2017 - Now_   Senior Manager-Reporting and Compliance Manager
+*** _2014 - 2017_  Reporting and Compliance Manager 
+*** _2011 - 2014_  Chief Administrative Officer
+*** _2007 - 2011_  Human Resource and Administrative Officer
+*** _Jan 2007 - Nov 2007_  Vocational and Database Coordinator
+*** _2006 - 2007_  Office Coordinator
+*** _2005 - 2006_  Assistant to Executive Director
 
 ### Project
 - CCF student database
